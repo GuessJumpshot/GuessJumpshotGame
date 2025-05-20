@@ -3,6 +3,8 @@
 
 Challenge yourself to identify NBA players by their blurred jumpshot videos. Play the ultimate NBA jumpshot guessing game and share your scores with friends.
 
+![Guess The NBA Player By Jumpshot](guess-jumpshot.jpg)
+
 Social media links:
 * [X](https://twitter.com/guessjumpshot)
 * [Facebook](https://facebook.com/guessjumpshot)
